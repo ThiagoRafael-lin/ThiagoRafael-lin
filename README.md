@@ -16,4 +16,4 @@
 
 ##
 
-![Snake animation](https://github.com/ThiagoRafael-lin/ThiagoRafael-lin/blob/output/github-contribution-grid-snake.svg)
+
