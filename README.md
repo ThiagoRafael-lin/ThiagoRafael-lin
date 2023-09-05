@@ -1,7 +1,7 @@
 ## Thiago-Rafael
 
-- 🎃 Atualmente procurando estágio
-- ☕ Estudando Java
+- 🎃 Fazendo Desenvolvimento de Sistemas
+- ☕ Estudando C#
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoRafael-lin&theme=gruvbox&show_icons=true"/>
