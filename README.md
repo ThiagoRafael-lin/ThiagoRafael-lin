@@ -1,5 +1,7 @@
 ## Thiago-Rafael
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F05F00&height=120&section=Header"/>
+
 - 🎃 Fazendo Desenvolvimento de Sistemas
 - ☕ Estudando C#
 
