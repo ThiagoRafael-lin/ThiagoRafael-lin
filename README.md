@@ -13,6 +13,9 @@
  <img align="center" alt="Thiago-HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
  <img align="center" alt="Thiago-CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
  <img align="center" alt="Thiago-CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
+ <img align="center" alt="Thiago-CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /> 
+ <img align="center" alt="Thiago-CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> 
+ <img align="center" alt="Thiago-CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F05F00&height=120&section=footer"/>
 
