@@ -1,5 +1,3 @@
-## Thiago-Rafael
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F05F00&height=120&section=Header"/>
 
 - 🎃 Fazendo Desenvolvimento de Sistemas
@@ -16,11 +14,6 @@
  <img align="center" alt="Thiago-CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
  <img align="center" alt="Thiago-CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
 </div>
-
- 
-</div>
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F05F00&height=120&section=footer"/>
 
 
