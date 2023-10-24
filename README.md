@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=964b00&height=120&section=Header"/>
 
 - 🎃 Fazendo Desenvolvimento de Sistemas
-- ☕ Estudando C#
+- ☕ Estudando Java
 
 <div align = "center">
  
