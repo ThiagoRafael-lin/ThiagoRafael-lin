@@ -6,7 +6,7 @@ Meu nome é Thiago, tenho 18 anos e sou estudante do Senai de Informatica.
 
 <img src="https://github.com/ThiagoRafael-lin/ThiagoRafael-lin/assets/126671342/275cfc13-3bd9-4874-8a39-29196ea7b401" /><br>
 
-Sou estudante de Desenvolvimento de Sistema, tenho preferência em Back-End, estou no 2 semestre do Técnico e estudo Java nas horas livres
+Sou estudante de Desenvolvimento de Sistema, tenho preferência em Back-End, estou no 2 semestre do Técnico e estudo Java nas horas livres.
 
 ## Minhas skills
 
