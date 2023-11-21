@@ -1,37 +1,33 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=964b00&height=120&section=Header"/>
+## Olá, bem vindo 👋
 
-- 🎃 Fazendo Desenvolvimento de Sistemas
-- ☕ Estudando Java
+Meu nome é Thiago, tenho 18 anos e sou estudante do Senai de Informatica.
 
-<div align = "center">
+## Sobre mim
+
+<img src="https://github.com/ThiagoRafael-lin/ThiagoRafael-lin/assets/126671342/275cfc13-3bd9-4874-8a39-29196ea7b401" /><br>
+
+Sou estudante de Desenvolvimento de Sistema, tenho preferência em Back-End, estou no 2 semestre do Técnico e estudo Java nas horas livres
+
+## Minhas skills
+
+<div style="Display: inline_block">
+
+<img alt="C-Sharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
  
-![0-unscreen](https://github.com/ThiagoRafael-lin/ThiagoRafael-lin/assets/126671342/3991487c-1454-47da-9705-a1091f0c6441)
-![villager-unscreen](https://github.com/ThiagoRafael-lin/ThiagoRafael-lin/assets/126671342/dd94261f-c309-4c63-85b9-9555944a9c7f)
-
 </div>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ThiagoRafael-lin&show_icons=true&count_private=true&hide_border=true&title_color=964b00&icon_color=964b00&text_color=ffffff&bg_color=0d1117" alt="ThiagoRafael-lin github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoRafael-lin&layout=compact&hide_border=true&title_color=964b00&text_color=964b00&bg_color=0d1117" />
+## Editores
+
+<div style="Display: inline_block">
+
+<img alt="NetBeans" src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white"/>
+<img alt="VisualStudioCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<img alt="VisualStudioCommunity" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+ 
 </div>
-
-
-<div align="center" style="display: inline_blick"><br>
- <img align="center" alt="Thiago-Java" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
- <img align="center" alt="Thiago-CSharp" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> 
- <img align="center" alt="Thiago-HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
- <img align="center" alt="Thiago-CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
-<img align="center" alt="Thiago-JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
- <img align="center" alt="Thiago-Illustrator" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /> 
- <img align="center" alt="Thiago-Photoshop" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /> 
- <img align="center" alt="Thiago-MySql" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
- <img align="center" alt="Thiago-MySql" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
-</div>
-
-</div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=964b00&height=120&section=footer"/>
-
-
-
-
-
