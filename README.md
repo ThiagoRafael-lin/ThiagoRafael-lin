@@ -1,6 +1,6 @@
 ## Olá, bem vindo 👋
 
-Meu nome é Thiago, tenho 18 anos e sou estudante do Senai de Informatica.
+Meu nome é Thiago, tenho 19 anos e sou estudante do Senai de Informatica.
 
 ## Sobre mim
 
