@@ -1,17 +1,9 @@
-## Olá, bem vindo 👋
+## Hello, welcome 👋
 
-Meu nome é Thiago, tenho 19 anos e sou estudante do Senai de Informatica.
+My name is Thiago, I am 19 years old and I am studying Systems Development and Multimedia.
 
-## Sobre mim
+## My skills
 
-<img src="https://pa1.aminoapps.com/7042/483b22fa2006762461af06307c65cc3eafd852c4r1-500-370_hq.gif" />
-
-<!--<img src="https://github.com/ThiagoRafael-lin/ThiagoRafael-lin/assets/126671342/275cfc13-3bd9-4874-8a39-29196ea7b401" /><br>-->
-
-
-Sou estudante de Desenvolvimento de Sistema, atualmente estudando Frontend e nas horas livres dedico a projetos pessoais.
-
-## Minhas skills
 
 <div style="Display: inline_block">
 
@@ -22,10 +14,9 @@ Sou estudante de Desenvolvimento de Sistema, atualmente estudando Frontend e nas
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-
 </div>
 
-## Editores
+## Editors
 
 <div style="Display: inline_block">
 
