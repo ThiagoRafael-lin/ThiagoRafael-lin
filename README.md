@@ -1,6 +1,7 @@
 ## Hello, welcome 👋
 
-My name is Thiago, I am 19 years old and I am studying Systems Development and Multimedia.
+Hello! I'm Thiago, 19 years old, full-stack developer constantly learning, seeking the latest technologies to create cutting-edge solutions. With training in Systems Development and Multimedia.
+
 
 ## My skills
 
