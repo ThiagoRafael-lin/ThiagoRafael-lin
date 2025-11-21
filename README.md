@@ -29,7 +29,7 @@ Sou um desenvolvedor focado em construir soluções web **end-to-end** (ponta a 
 
 | Plataforma | Link |
 | :--- | :--- |
-| **LinkedIn** | [Meu Perfil no LinkedIn](https://www.linkedin.com/in/thiago-rafael-dev) *(Substitua pelo seu link)* |
+| **LinkedIn** | [Meu Perfil no LinkedIn](https://www.linkedin.com/in/thiago-rafael-dev/) |
 | **Email** | thiagorafael2005@gmail.com |
 
 ---
